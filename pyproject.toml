@@ -5,7 +5,7 @@ description = ""
 authors = ["Sushmitha Halli Sudhakara <hssushmitha047@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = ">=3.10.0,<3.11"
+python = "^3.12"
 streamlit = "^1.27.2"
 pandas = "^2.2.3"
 numpy = "^1.26.4"
