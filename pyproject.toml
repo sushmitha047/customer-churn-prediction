@@ -10,7 +10,8 @@ streamlit = "^1.27.2"
 pandas = "^2.2.3"
 numpy = "^1.26.4"
 openai = "^1.58.1"
-plotly = "^5.24.1" 
+plotly = "^5.24.1"
+xgboost = "^1.7.6"
 
 [tool.pyright]
 # https://github.com/microsoft/pyright/blob/main/docs/configuration.md
